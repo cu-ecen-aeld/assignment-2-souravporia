@@ -1,0 +1,1 @@
+writer: ELF 64-bit LSB shared object, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, BuildID[sha1]=17237971f0c8ded38bd3d40ee7700d3893b78d05, for GNU/Linux 3.7.0, not stripped
